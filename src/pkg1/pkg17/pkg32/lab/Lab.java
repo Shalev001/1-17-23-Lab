@@ -5,7 +5,6 @@
 package pkg1.pkg17.pkg32.lab;
 
 /**
- *
  * @author shale
  */
 public class Lab {
@@ -15,7 +14,7 @@ public class Lab {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("hi");
+        System.out.println("hi wassup");
     }
     
 }
